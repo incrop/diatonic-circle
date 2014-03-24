@@ -1,0 +1,8 @@
+#container {
+    height: 640px;
+    left: 50%;
+    margin: -320px 0 0 -320px;
+    position: absolute;
+    top: 50%;
+    width: 640px;
+}
